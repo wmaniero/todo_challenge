@@ -11,7 +11,9 @@ import { homepageConstants } from "../../_constants";
 configure({ adapter: new Adapter() });
 
 let component;
-const mockProps = {};
+const mockProps = {
+    recordedActions: []
+};
 
 describe("homepage Component", () => {
 	beforeAll(() => {
