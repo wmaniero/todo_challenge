@@ -1,0 +1,8 @@
+{
+  "short_name": "TodoChallenge",
+  "name": "TodoChallenge",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
